@@ -1,3 +1,6 @@
+# take advantage of interactive plot viewer
+# of sublime text
+
 import matplotlib.pyplot as plt
 import pandas as pd
 # load data
