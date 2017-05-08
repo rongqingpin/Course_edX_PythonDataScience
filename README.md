@@ -8,5 +8,6 @@ covered topics:
 * dataframes from data files, websites, images
 * data cleanup & feature conversion & data slicing
 * exploration: histograms, scatter plots, parallel coordinate plot, Andrews curve, correlation matrix
+* dimensionality reduction through PCA & isomap
 
 presented in Jupyter notebook
