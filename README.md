@@ -6,8 +6,9 @@ my implementations of the lecture and lab assignment materials
 
 covered topics:  
 * dataframes from data files, websites, images
-* data cleanup & feature conversion & data slicing
+* data cleanup & feature conversion & data slicing & data normalization
 * exploration: histograms, scatter plots, parallel coordinate plot, Andrews curve, correlation matrix
 * dimensionality reduction through PCA & isomap
+* clustering through KMeans
 
 presented in Jupyter notebook
