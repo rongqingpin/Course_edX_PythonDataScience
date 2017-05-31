@@ -1,4 +1,4 @@
-# Course_edX_PythonDataScience
+# Python Data Science, offered by edX (DAT 210x)
 
 [course link](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-3)
 
