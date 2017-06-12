@@ -10,7 +10,7 @@ covered topics:
 * exploration: histograms, scatter plots, parallel coordinate plot, Andrews curve, correlation matrix
 * dimensionality reduction through PCA & isomap
 * clustering through KMeans
-* classification through K-Nearest Neighbors, SVC, Decision Tree
+* classification through K-Nearest Neighbors, SVC, Decision Tree, Random Forest
 * linear regression
 
 presented in Jupyter notebook
