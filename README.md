@@ -9,8 +9,12 @@ covered topics:
 * data cleanup & feature conversion & data slicing & data normalization
 * exploration: histograms, scatter plots, parallel coordinate plot, Andrews curve, correlation matrix
 * dimensionality reduction through PCA & isomap
+* linear regression
 * clustering through KMeans
 * classification through K-Nearest Neighbors, SVC, Decision Tree, Random Forest
-* linear regression
+* model evaluation (scores & reports)
+* cross-validation
+* optimize parameters: grid search, randomized search
+* pipeline of estimators
 
 presented in Jupyter notebook
